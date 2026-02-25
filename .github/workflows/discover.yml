@@ -1,0 +1,43 @@
+name: Discover new episodes
+
+on:
+  schedule:
+    # 9 AM UTC daily (5 AM ET / 2 AM PT)
+    - cron: '0 9 * * *'
+  workflow_dispatch: # allow manual trigger from GitHub UI
+
+jobs:
+  discover:
+    runs-on: ubuntu-latest
+    defaults:
+      run:
+        working-directory: podcast-to-social
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Set up Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+
+      - name: Cache pip
+        uses: actions/cache@v4
+        with:
+          path: ~/.cache/pip
+          key: ${{ runner.os }}-pip-${{ hashFiles('podcast-to-social/requirements.txt') }}
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Discover and queue posts
+        env:
+          DATABASE_URL:                ${{ secrets.DATABASE_URL }}
+          OPENAI_API_KEY:              ${{ secrets.OPENAI_API_KEY }}
+          YOUTUBE_API_KEY:             ${{ secrets.YOUTUBE_API_KEY }}
+          TWITTER_API_KEY:             ${{ secrets.TWITTER_API_KEY }}
+          TWITTER_API_SECRET:          ${{ secrets.TWITTER_API_SECRET }}
+          TWITTER_ACCESS_TOKEN:        ${{ secrets.TWITTER_ACCESS_TOKEN }}
+          TWITTER_ACCESS_TOKEN_SECRET: ${{ secrets.TWITTER_ACCESS_TOKEN_SECRET }}
+          AUTO_POST: 'true'   # auto-approve posts (no interactive review in CI)
+        run: python main.py discover

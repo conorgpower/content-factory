@@ -1,0 +1,30 @@
+# schedule.yaml
+# ─────────────────────────────────────────────────────────────────
+# Controls when posts go out.
+# All times are in the timezone below and converted to UTC for storage.
+#
+# US Eastern peak windows (optimised for US + global English audience):
+#   07:30 — Early risers, commuters
+#   09:00 — Morning desk check
+#   12:00 — Lunch scroll
+#   15:30 — Afternoon lull
+#   19:00 — Evening wind-down (highest engagement window)
+#   20:30 — Late evening
+#
+# Posts are distributed across available (future) windows.
+# If more posts than windows, extras are spaced 5 minutes after their window.
+# Reddit posts are staggered after the matching X post.
+# ─────────────────────────────────────────────────────────────────
+
+timezone: "America/New_York"
+
+posting_windows:
+  - "07:30"
+  - "09:00"
+  - "12:00"
+  - "15:30"
+  - "19:00"
+  - "20:30"
+
+# Minutes to delay Reddit post after the matching X post
+reddit_stagger_minutes: 30

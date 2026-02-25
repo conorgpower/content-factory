@@ -1,0 +1,19 @@
+# Core
+openai>=1.0.0
+python-dotenv>=1.0.0
+pyyaml>=6.0.1
+requests>=2.31.0
+psycopg2-binary>=2.9.9
+
+# YouTube
+google-api-python-client>=2.100.0
+google-auth-httplib2>=0.2.0
+google-auth-oauthlib>=1.2.0
+youtube-transcript-api>=0.6.2
+
+# Social posting
+tweepy>=4.14.0
+praw>=7.7.0
+
+# Review CLI
+rich>=13.7.0

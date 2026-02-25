@@ -1,0 +1,55 @@
+# channels.yaml
+# ─────────────────────────────────────────────────────────────────
+# Each entry monitors a specific YouTube podcast playlist.
+#
+# Fields:
+#   name          — Human-readable name (used in generated post copy)
+#   playlist_id   — ID from the podcast-tab playlist URL (list=XXXX).
+#                   Polls only this playlist → only real podcast episodes,
+#                   no shorts or clips.
+#   id            — (optional) Channel ID (UC...) — only needed if you want
+#                   to monitor ALL channel uploads instead of a specific playlist.
+#                   If both playlist_id and id are present, playlist_id wins.
+#   topic_tags    — Tags from subreddits.yaml that route posts to the right
+#                   communities. Available: stoicism, self-improvement,
+#                   productivity, mental-fitness, general
+#   check_keywords — (optional) Only process videos whose titles contain
+#                   one of these words. Leave empty [] to take all episodes.
+# ─────────────────────────────────────────────────────────────────
+
+channels:
+
+  - name: "The Tim Ferriss Show"
+    playlist_id: "PLuu6fDad2eJyWPm9dQfuorm2uuYHBZDCB"
+    topic_tags:
+      - self-improvement
+      - productivity
+    check_keywords: []
+
+  - name: "The Diary Of A CEO"
+    playlist_id: "PL22egh3ok4cP0T7UZRmP6TMLErZYWMN-l"
+    topic_tags:
+      - self-improvement
+      - productivity
+    check_keywords: []
+
+  - name: "Huberman Lab"
+    playlist_id: "PLPNW_gerXa4Pc8S2qoUQc5e8Ir97RLuVW"
+    topic_tags:
+      - mental-fitness
+      - self-improvement
+    check_keywords: []
+
+  - name: "The Lex Fridman Podcast"
+    playlist_id: "PLrAXtmErZgOdP_8GztsuKi9nrraNbKKp4"
+    topic_tags:
+      - general
+      - productivity
+    check_keywords: []
+
+  - name: "High Performance Podcast"
+    playlist_id: "PLhEga43DyktQKiqShJ75awYPgShWWAxko"
+    topic_tags:
+      - self-improvement
+      - productivity
+    check_keywords: []

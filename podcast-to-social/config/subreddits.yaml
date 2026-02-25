@@ -1,0 +1,91 @@
+# subreddits.yaml
+# ─────────────────────────────────────────────────────────────────
+# Maps topic tags (from channels.yaml) to relevant subreddits.
+#
+# Fields per subreddit:
+#   name           — Full subreddit name including r/
+#   promo_allowed  — Whether external links / light self-promotion
+#                    are typically accepted by this community.
+#                    Set to false to exclude it from posting.
+#   flair          — Flair to apply if required (null if none needed)
+#   notes          — Internal reminder about community rules
+#
+# The reddit_poster caps at 3 subreddits per post to avoid spam flags.
+# ─────────────────────────────────────────────────────────────────
+
+topic_tags:
+
+  stoicism:
+    - name: r/Stoicism
+      promo_allowed: true
+      flair: null
+      notes: "Active, engaged community. External links OK. Keep it substantive."
+
+    - name: r/Meditations
+      promo_allowed: true
+      flair: null
+      notes: "Marcus Aurelius focused, but broader Stoicism welcome."
+
+    - name: r/philosophy
+      promo_allowed: true
+      flair: null
+      notes: "More academic audience. Posts need genuine philosophical substance."
+
+  self-improvement:
+    - name: r/selfimprovement
+      promo_allowed: true
+      flair: null
+      notes: "Broad self-help audience. Practical framing works best."
+
+    - name: r/getdisciplined
+      promo_allowed: true
+      flair: Discussion
+      notes: "Discipline/habit focused. Actionable takeaways perform well."
+
+    - name: r/DecidingToBeBetter
+      promo_allowed: true
+      flair: null
+      notes: "Personal growth focus. Relatable framing and questions do well."
+
+    - name: r/BettermentBookClub
+      promo_allowed: true
+      flair: null
+      notes: "Reading / learning community. Good fit for podcast summaries."
+
+  productivity:
+    - name: r/productivity
+      promo_allowed: true
+      flair: null
+      notes: "Systems and tools focus. Frameworks and principles land well."
+
+    - name: r/nosurf
+      promo_allowed: true
+      flair: null
+      notes: "Digital minimalism audience. Anti-distraction angle works."
+
+  mental-fitness:
+    - name: r/mindfulness
+      promo_allowed: true
+      flair: null
+      notes: "Mindfulness community. Reflective tone. No medical language."
+
+    - name: r/Meditation
+      promo_allowed: true
+      flair: null
+      notes: "Meditation focused. Practical philosophy angle is a differentiator."
+
+    - name: r/Anxiety
+      promo_allowed: false
+      flair: null
+      notes: "EXCLUDED — sensitive community, promo not appropriate here."
+
+  general:
+    - name: r/podcasts
+      promo_allowed: true
+      flair: Discussion
+      notes: "General podcast discussion. Good for wider reach."
+
+    - name: r/PhilosophyOfMind
+      promo_allowed: true
+      flair: null
+      notes: "More academic. Only post if content has genuine depth."

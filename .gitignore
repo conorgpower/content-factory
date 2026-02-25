@@ -1,0 +1,22 @@
+# Secrets
+podcast-to-social/.env
+
+# Local database (replaced by Supabase in production)
+podcast-to-social/data/
+
+# Downloaded thumbnails (re-downloaded on demand)
+podcast-to-social/output/
+
+# macOS
+.DS_Store
+
+# Python
+__pycache__/
+*.py[cod]
+*.egg-info/
+.venv/
+venv/
+
+video-ads
+image-ads
+carousel-ads
