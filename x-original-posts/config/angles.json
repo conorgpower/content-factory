@@ -1,0 +1,62 @@
+[
+  {
+    "id": "advice_to_age",
+    "label": "Advice to a specific age group",
+    "description": "Direct advice framed for a specific life stage. Opens with 'My advice to [age] year olds:' or similar. States what you wish someone had told you."
+  },
+  {
+    "id": "contrarian_truth",
+    "label": "Contrarian truth",
+    "description": "Takes a widely accepted belief and states the opposite as fact, without apology. Not 'I think' — just states it."
+  },
+  {
+    "id": "pattern_from_experience",
+    "label": "Pattern from lived experience",
+    "description": "Opens with an observation from personal experience or repeated observation: 'Everyone I know who X eventually Y.' Real pattern, stated plainly."
+  },
+  {
+    "id": "nobody_tells_you",
+    "label": "The thing nobody says",
+    "description": "Exposes the gap between what's publicly said and what's privately true. 'Nobody tells you that...' energy without using that phrase directly."
+  },
+  {
+    "id": "business_hiring_truth",
+    "label": "Business / hiring conviction",
+    "description": "A specific, tactical belief about building teams or companies. Often includes a specific type of person or situation with numbers."
+  },
+  {
+    "id": "regret_from_older_people",
+    "label": "What older people regret",
+    "description": "Framed around what people at 60+ wish they'd done differently. Heavy on specificity about who those people are."
+  },
+  {
+    "id": "modern_trap",
+    "label": "Modern trap / societal lie",
+    "description": "Something modern culture sells as freedom or progress that is actually making people worse off. Named without moralising."
+  },
+  {
+    "id": "specific_tactic",
+    "label": "A specific tactic that sounds odd but works",
+    "description": "One concrete, specific move that sounds counterintuitive but has clear logic. Often ends with a very precise detail that lands with slight humour."
+  },
+  {
+    "id": "personal_conviction",
+    "label": "Personal first-person conviction",
+    "description": "Something the narrator personally did or believes — stated as lived experience, not general advice. 'I did X' or 'I believe X' without softening."
+  },
+  {
+    "id": "relationship_conviction",
+    "label": "Relationship / marriage conviction",
+    "description": "Honest, direct take on what makes long-term relationships work or fail. Specific over vague. What most people don't want to hear."
+  },
+  {
+    "id": "money_reframe",
+    "label": "Money / wealth reframe",
+    "description": "Takes a common belief about money and reframes it with a sharper observation. Often involves specific numbers to make it concrete."
+  },
+  {
+    "id": "philosophical_reframe",
+    "label": "Philosophical reframe of a modern problem",
+    "description": "Takes a problem people struggle with today and applies a timeless lens. Named principle applied to a named modern situation."
+  }
+]

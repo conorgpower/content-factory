@@ -80,6 +80,7 @@ Then add the episode link on a new line: [LINK]
 - Do not make medical claims ("reduces anxiety", "treats stress", etc.).
 - Do not use phrases like "unlock your potential", "life-changing", "game-changer",
   "powerful", "incredible", or similar hype language.
+- Never use em dashes (—) or en dashes (–). Avoid overusing hyphens. Rewrite sentences instead. These patterns make writing look AI-generated.
 
 ---
 

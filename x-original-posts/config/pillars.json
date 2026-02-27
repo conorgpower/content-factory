@@ -1,0 +1,52 @@
+[
+  {
+    "id": "business",
+    "label": "Business & entrepreneurship",
+    "description": "Building companies, selling, hiring, scaling, what separates winners from everyone else"
+  },
+  {
+    "id": "money",
+    "label": "Money & wealth",
+    "description": "How wealth is actually built, what people get wrong about money, the real relationship between money and freedom"
+  },
+  {
+    "id": "marriage",
+    "label": "Marriage & relationships",
+    "description": "What makes marriages work long-term, what destroys them, what nobody says out loud about relationships"
+  },
+  {
+    "id": "parenting",
+    "label": "Parenting & raising kids",
+    "description": "Counterintuitive truths about raising children, what modern parenting gets wrong, specific tactics that work"
+  },
+  {
+    "id": "health",
+    "label": "Health & physical discipline",
+    "description": "Exercise, diet, sleep, physical standards — the relationship between physical discipline and everything else in life"
+  },
+  {
+    "id": "philosophy",
+    "label": "Philosophy & mental clarity",
+    "description": "Stoic principles applied to real decisions, how to think clearly under pressure, what the ancients got right"
+  },
+  {
+    "id": "career",
+    "label": "Career & work ethic",
+    "description": "What actually moves careers forward, work ethic as identity, how to outperform in competitive environments"
+  },
+  {
+    "id": "society",
+    "label": "Modern society",
+    "description": "What society currently promotes that's quietly making people worse off — social media, entertainment, consumption patterns"
+  },
+  {
+    "id": "identity",
+    "label": "Personal identity & character",
+    "description": "Who you become through your choices, how character is built or eroded, the gap between self-image and actual behaviour"
+  },
+  {
+    "id": "time",
+    "label": "Time, priorities & regret",
+    "description": "What people realise too late, how to orient decisions around what will matter at 70, the cost of delaying important things"
+  }
+]
