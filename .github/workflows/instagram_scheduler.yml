@@ -1,0 +1,45 @@
+name: Instagram Scheduler
+
+on:
+  schedule:
+    # 9 posts/day targeting US peak times (EST / PST)
+    - cron: "0 12 * * *"   #  7:00 AM EST /  4:00 AM PST — early East Coast
+    - cron: "30 13 * * *"  #  8:30 AM EST /  5:30 AM PST — morning commute
+    - cron: "0 15 * * *"   # 10:00 AM EST /  7:00 AM PST — West Coast wake-up
+    - cron: "0 17 * * *"   # 12:00 PM EST /  9:00 AM PST — lunch East / morning West
+    - cron: "0 19 * * *"   #  2:00 PM EST / 11:00 AM PST — afternoon
+    - cron: "0 21 * * *"   #  4:00 PM EST /  1:00 PM PST — after work East
+    - cron: "0 23 * * *"   #  6:00 PM EST /  3:00 PM PST — evening East / afternoon West
+    - cron: "0 1 * * *"    #  8:00 PM EST /  5:00 PM PST — prime time
+    - cron: "0 3 * * *"    # 10:00 PM EST /  7:00 PM PST — late evening
+  workflow_dispatch: # Allow manual trigger
+
+jobs:
+  publish:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install dependencies
+        run: pip install requests
+
+      - name: Publish next post
+        env:
+          META_PAGE_ACCESS_TOKEN: ${{ secrets.META_PAGE_ACCESS_TOKEN }}
+          INSTAGRAM_ACCOUNT_ID: ${{ secrets.INSTAGRAM_ACCOUNT_ID }}
+        run: python social-scheduler/publish_next.py
+
+      - name: Commit progress
+        run: |
+          cd social-scheduler
+          git config user.name "github-actions[bot]"
+          git config user.email "github-actions[bot]@users.noreply.github.com"
+          git add schedule.json
+          git diff --staged --quiet || git commit -m "Published Instagram reel $(date -u +%Y-%m-%d_%H:%M)"
+          git push

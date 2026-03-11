@@ -1,0 +1,611 @@
+[
+  {
+    "hook": "No way, there's official ranks for screen time now..",
+    "hook_sub": "send this to your phone-addicted friend 💀",
+    "metric": "Daily Screen Time",
+    "tiers": { "Bronze": "5+ hrs", "Gold": "4 hrs", "Emerald": "3 hrs", "Diamond": "2 hrs", "Champion": "1 hr", "Iridescent": "< 30 mins" }
+  },
+  {
+    "hook": "Be honest.. what rank is your screen time?",
+    "hook_sub": "most people won't post theirs 😬",
+    "metric": "Daily Screen Time",
+    "tiers": { "Bronze": "5+ hrs", "Gold": "4 hrs", "Emerald": "3 hrs", "Diamond": "2 hrs", "Champion": "1 hr", "Iridescent": "< 30 mins" }
+  },
+  {
+    "hook": "POV: you checked your screen time report today..",
+    "hook_sub": "and you're not proud of it 😭",
+    "metric": "Daily Screen Time",
+    "tiers": { "Bronze": "5+ hrs", "Gold": "4 hrs", "Emerald": "3 hrs", "Diamond": "2 hrs", "Champion": "1 hr", "Iridescent": "< 30 mins" }
+  },
+  {
+    "hook": "Your screen time says a lot about your discipline..",
+    "hook_sub": "where do you rank? 👀",
+    "metric": "Daily Screen Time",
+    "tiers": { "Bronze": "5+ hrs", "Gold": "4 hrs", "Emerald": "3 hrs", "Diamond": "2 hrs", "Champion": "1 hr", "Iridescent": "< 30 mins" }
+  },
+  {
+    "hook": "If screen time had ranks, most people would be Bronze..",
+    "hook_sub": "prove me wrong 🤷",
+    "metric": "Daily Screen Time",
+    "tiers": { "Bronze": "5+ hrs", "Gold": "4 hrs", "Emerald": "3 hrs", "Diamond": "2 hrs", "Champion": "1 hr", "Iridescent": "< 30 mins" }
+  },
+  {
+    "hook": "Tag someone who needs to see their screen time rank..",
+    "hook_sub": "they already know who they are 📱",
+    "metric": "Daily Screen Time",
+    "tiers": { "Bronze": "5+ hrs", "Gold": "4 hrs", "Emerald": "3 hrs", "Diamond": "2 hrs", "Champion": "1 hr", "Iridescent": "< 30 mins" }
+  },
+  {
+    "hook": "Screen time rankings just dropped..",
+    "hook_sub": "and most of you aren't making it past Gold 💀",
+    "metric": "Daily Screen Time",
+    "tiers": { "Bronze": "5+ hrs", "Gold": "4 hrs", "Emerald": "3 hrs", "Diamond": "2 hrs", "Champion": "1 hr", "Iridescent": "< 30 mins" }
+  },
+  {
+    "hook": "Your screen time is the scoreboard nobody asked for..",
+    "hook_sub": "but everyone needs to see 📊",
+    "metric": "Daily Screen Time",
+    "tiers": { "Bronze": "5+ hrs", "Gold": "4 hrs", "Emerald": "3 hrs", "Diamond": "2 hrs", "Champion": "1 hr", "Iridescent": "< 30 mins" }
+  },
+  {
+    "hook": "I know someone who's definitely Bronze on this..",
+    "hook_sub": "tag them, they need this wake-up call 😴",
+    "metric": "Daily Screen Time",
+    "tiers": { "Bronze": "5+ hrs", "Gold": "4 hrs", "Emerald": "3 hrs", "Diamond": "2 hrs", "Champion": "1 hr", "Iridescent": "< 30 mins" }
+  },
+  {
+    "hook": "Imagine flexing your screen time like a rank..",
+    "hook_sub": "only Iridescent players move in silence 🤫",
+    "metric": "Daily Screen Time",
+    "tiers": { "Bronze": "5+ hrs", "Gold": "4 hrs", "Emerald": "3 hrs", "Diamond": "2 hrs", "Champion": "1 hr", "Iridescent": "< 30 mins" }
+  },
+
+  {
+    "hook": "No way, there's official ranks for meditation now..",
+    "hook_sub": "send this to someone who needs inner peace 💀",
+    "metric": "Meditation Mins This Month",
+    "tiers": { "Bronze": "30 mins", "Gold": "60 mins", "Emerald": "120 mins", "Diamond": "300 mins", "Champion": "500 mins", "Iridescent": "1000 mins" }
+  },
+  {
+    "hook": "Be honest.. how many minutes did you meditate this month?",
+    "hook_sub": "most people can't even sit still for 5 😬",
+    "metric": "Meditation Mins This Month",
+    "tiers": { "Bronze": "30 mins", "Gold": "60 mins", "Emerald": "120 mins", "Diamond": "300 mins", "Champion": "500 mins", "Iridescent": "1000 mins" }
+  },
+  {
+    "hook": "Your meditation minutes reveal your mental strength..",
+    "hook_sub": "where do you land? 🧘",
+    "metric": "Meditation Mins This Month",
+    "tiers": { "Bronze": "30 mins", "Gold": "60 mins", "Emerald": "120 mins", "Diamond": "300 mins", "Champion": "500 mins", "Iridescent": "1000 mins" }
+  },
+  {
+    "hook": "If meditation had a leaderboard..",
+    "hook_sub": "most people wouldn't even qualify 💀",
+    "metric": "Meditation Mins This Month",
+    "tiers": { "Bronze": "30 mins", "Gold": "60 mins", "Emerald": "120 mins", "Diamond": "300 mins", "Champion": "500 mins", "Iridescent": "1000 mins" }
+  },
+  {
+    "hook": "People who meditate daily are built different..",
+    "hook_sub": "what rank are you? 🧠",
+    "metric": "Meditation Mins This Month",
+    "tiers": { "Bronze": "30 mins", "Gold": "60 mins", "Emerald": "120 mins", "Diamond": "300 mins", "Champion": "500 mins", "Iridescent": "1000 mins" }
+  },
+  {
+    "hook": "POV: you actually tracked your meditation this month..",
+    "hook_sub": "and now you know the truth 😳",
+    "metric": "Meditation Mins This Month",
+    "tiers": { "Bronze": "30 mins", "Gold": "60 mins", "Emerald": "120 mins", "Diamond": "300 mins", "Champion": "500 mins", "Iridescent": "1000 mins" }
+  },
+  {
+    "hook": "Meditation rankings just dropped..",
+    "hook_sub": "send this to someone who says they meditate but doesn't 👀",
+    "metric": "Meditation Mins This Month",
+    "tiers": { "Bronze": "30 mins", "Gold": "60 mins", "Emerald": "120 mins", "Diamond": "300 mins", "Champion": "500 mins", "Iridescent": "1000 mins" }
+  },
+  {
+    "hook": "The people who need meditation the most don't do it..",
+    "hook_sub": "tag them 🫠",
+    "metric": "Meditation Mins This Month",
+    "tiers": { "Bronze": "30 mins", "Gold": "60 mins", "Emerald": "120 mins", "Diamond": "300 mins", "Champion": "500 mins", "Iridescent": "1000 mins" }
+  },
+  {
+    "hook": "Still think meditation is a waste of time?",
+    "hook_sub": "check your rank and get back to me 🙏",
+    "metric": "Meditation Mins This Month",
+    "tiers": { "Bronze": "30 mins", "Gold": "60 mins", "Emerald": "120 mins", "Diamond": "300 mins", "Champion": "500 mins", "Iridescent": "1000 mins" }
+  },
+  {
+    "hook": "Your meditation rank says everything about your peace..",
+    "hook_sub": "no cap 🧘‍♂️",
+    "metric": "Meditation Mins This Month",
+    "tiers": { "Bronze": "30 mins", "Gold": "60 mins", "Emerald": "120 mins", "Diamond": "300 mins", "Champion": "500 mins", "Iridescent": "1000 mins" }
+  },
+
+  {
+    "hook": "No way, there's official ranks for journaling now..",
+    "hook_sub": "send this to your overthinking friend 💀",
+    "metric": "Reflections This Month",
+    "tiers": { "Bronze": "1 reflection", "Gold": "5 reflections", "Emerald": "10 reflections", "Diamond": "20 reflections", "Champion": "25 reflections", "Iridescent": "30 reflections" }
+  },
+  {
+    "hook": "How many times did you journal this month? Be honest..",
+    "hook_sub": "thought so 📓",
+    "metric": "Reflections This Month",
+    "tiers": { "Bronze": "1 reflection", "Gold": "5 reflections", "Emerald": "10 reflections", "Diamond": "20 reflections", "Champion": "25 reflections", "Iridescent": "30 reflections" }
+  },
+  {
+    "hook": "Journaling ranks just dropped..",
+    "hook_sub": "most people can't even write one honest sentence 💀",
+    "metric": "Reflections This Month",
+    "tiers": { "Bronze": "1 reflection", "Gold": "5 reflections", "Emerald": "10 reflections", "Diamond": "20 reflections", "Champion": "25 reflections", "Iridescent": "30 reflections" }
+  },
+  {
+    "hook": "The people with the calmest minds journal daily..",
+    "hook_sub": "where do you rank? ✍️",
+    "metric": "Reflections This Month",
+    "tiers": { "Bronze": "1 reflection", "Gold": "5 reflections", "Emerald": "10 reflections", "Diamond": "20 reflections", "Champion": "25 reflections", "Iridescent": "30 reflections" }
+  },
+  {
+    "hook": "If journaling had a scoreboard..",
+    "hook_sub": "most of you would be unranked 😬",
+    "metric": "Reflections This Month",
+    "tiers": { "Bronze": "1 reflection", "Gold": "5 reflections", "Emerald": "10 reflections", "Diamond": "20 reflections", "Champion": "25 reflections", "Iridescent": "30 reflections" }
+  },
+  {
+    "hook": "POV: you say you journal but only wrote once this month..",
+    "hook_sub": "Bronze behaviour 🥉",
+    "metric": "Reflections This Month",
+    "tiers": { "Bronze": "1 reflection", "Gold": "5 reflections", "Emerald": "10 reflections", "Diamond": "20 reflections", "Champion": "25 reflections", "Iridescent": "30 reflections" }
+  },
+  {
+    "hook": "Tag someone who says they journal but never does..",
+    "hook_sub": "they need to see their rank 📝",
+    "metric": "Reflections This Month",
+    "tiers": { "Bronze": "1 reflection", "Gold": "5 reflections", "Emerald": "10 reflections", "Diamond": "20 reflections", "Champion": "25 reflections", "Iridescent": "30 reflections" }
+  },
+  {
+    "hook": "Writing your thoughts down is a cheat code..",
+    "hook_sub": "but most people still don't do it 🤦",
+    "metric": "Reflections This Month",
+    "tiers": { "Bronze": "1 reflection", "Gold": "5 reflections", "Emerald": "10 reflections", "Diamond": "20 reflections", "Champion": "25 reflections", "Iridescent": "30 reflections" }
+  },
+  {
+    "hook": "Your reflection count reveals your self-awareness..",
+    "hook_sub": "what's your rank? 🪞",
+    "metric": "Reflections This Month",
+    "tiers": { "Bronze": "1 reflection", "Gold": "5 reflections", "Emerald": "10 reflections", "Diamond": "20 reflections", "Champion": "25 reflections", "Iridescent": "30 reflections" }
+  },
+  {
+    "hook": "Iridescent journalers are a different breed..",
+    "hook_sub": "30 reflections in a month is elite 👑",
+    "metric": "Reflections This Month",
+    "tiers": { "Bronze": "1 reflection", "Gold": "5 reflections", "Emerald": "10 reflections", "Diamond": "20 reflections", "Champion": "25 reflections", "Iridescent": "30 reflections" }
+  },
+
+  {
+    "hook": "No way, there's official ranks for philosophy now..",
+    "hook_sub": "send this to your book nerd friend 💀",
+    "metric": "Books Read This Year",
+    "tiers": { "Bronze": "1 book", "Gold": "3 books", "Emerald": "6 books", "Diamond": "12 books", "Champion": "18 books", "Iridescent": "24 books" }
+  },
+  {
+    "hook": "How many books have you actually read this year?",
+    "hook_sub": "audiobooks don't count 📚",
+    "metric": "Books Read This Year",
+    "tiers": { "Bronze": "1 book", "Gold": "3 books", "Emerald": "6 books", "Diamond": "12 books", "Champion": "18 books", "Iridescent": "24 books" }
+  },
+  {
+    "hook": "Reading ranks just dropped..",
+    "hook_sub": "and buying books doesn't count as reading them 💀",
+    "metric": "Books Read This Year",
+    "tiers": { "Bronze": "1 book", "Gold": "3 books", "Emerald": "6 books", "Diamond": "12 books", "Champion": "18 books", "Iridescent": "24 books" }
+  },
+  {
+    "hook": "The smartest people you know read 2 books a month..",
+    "hook_sub": "where do you rank? 📖",
+    "metric": "Books Read This Year",
+    "tiers": { "Bronze": "1 book", "Gold": "3 books", "Emerald": "6 books", "Diamond": "12 books", "Champion": "18 books", "Iridescent": "24 books" }
+  },
+  {
+    "hook": "Your bookshelf is judging you right now..",
+    "hook_sub": "how many did you actually finish? 👀",
+    "metric": "Books Read This Year",
+    "tiers": { "Bronze": "1 book", "Gold": "3 books", "Emerald": "6 books", "Diamond": "12 books", "Champion": "18 books", "Iridescent": "24 books" }
+  },
+  {
+    "hook": "POV: someone asks how many books you've read this year..",
+    "hook_sub": "and you have to lie 😅",
+    "metric": "Books Read This Year",
+    "tiers": { "Bronze": "1 book", "Gold": "3 books", "Emerald": "6 books", "Diamond": "12 books", "Champion": "18 books", "Iridescent": "24 books" }
+  },
+  {
+    "hook": "Tag someone who buys books but never reads them..",
+    "hook_sub": "their shelf is just decoration at this point 🫠",
+    "metric": "Books Read This Year",
+    "tiers": { "Bronze": "1 book", "Gold": "3 books", "Emerald": "6 books", "Diamond": "12 books", "Champion": "18 books", "Iridescent": "24 books" }
+  },
+  {
+    "hook": "Readers are leaders.. but most people aren't reading..",
+    "hook_sub": "what's your rank? 🏆",
+    "metric": "Books Read This Year",
+    "tiers": { "Bronze": "1 book", "Gold": "3 books", "Emerald": "6 books", "Diamond": "12 books", "Champion": "18 books", "Iridescent": "24 books" }
+  },
+  {
+    "hook": "24 books a year is only 2 a month..",
+    "hook_sub": "and most people still can't do it 🤷",
+    "metric": "Books Read This Year",
+    "tiers": { "Bronze": "1 book", "Gold": "3 books", "Emerald": "6 books", "Diamond": "12 books", "Champion": "18 books", "Iridescent": "24 books" }
+  },
+  {
+    "hook": "If reading had competitive ranks..",
+    "hook_sub": "what tier would you be in? 📕",
+    "metric": "Books Read This Year",
+    "tiers": { "Bronze": "1 book", "Gold": "3 books", "Emerald": "6 books", "Diamond": "12 books", "Champion": "18 books", "Iridescent": "24 books" }
+  },
+
+  {
+    "hook": "No way, there's official ranks for daily streaks now..",
+    "hook_sub": "send this to someone who can't stay consistent 💀",
+    "metric": "Daily Ritual Streak",
+    "tiers": { "Bronze": "3 days", "Gold": "7 days", "Emerald": "30 days", "Diamond": "90 days", "Champion": "180 days", "Iridescent": "365 days" }
+  },
+  {
+    "hook": "Be honest.. how long is your longest streak?",
+    "hook_sub": "quitting on day 4 doesn't count 😬",
+    "metric": "Daily Ritual Streak",
+    "tiers": { "Bronze": "3 days", "Gold": "7 days", "Emerald": "30 days", "Diamond": "90 days", "Champion": "180 days", "Iridescent": "365 days" }
+  },
+  {
+    "hook": "Consistency rankings just dropped..",
+    "hook_sub": "most of you won't make it past Gold 💀",
+    "metric": "Daily Ritual Streak",
+    "tiers": { "Bronze": "3 days", "Gold": "7 days", "Emerald": "30 days", "Diamond": "90 days", "Champion": "180 days", "Iridescent": "365 days" }
+  },
+  {
+    "hook": "A 365-day streak is not luck, it's identity..",
+    "hook_sub": "what's your rank? 🔥",
+    "metric": "Daily Ritual Streak",
+    "tiers": { "Bronze": "3 days", "Gold": "7 days", "Emerald": "30 days", "Diamond": "90 days", "Champion": "180 days", "Iridescent": "365 days" }
+  },
+  {
+    "hook": "Your streak length reveals your discipline..",
+    "hook_sub": "no excuses, where do you land? 💪",
+    "metric": "Daily Ritual Streak",
+    "tiers": { "Bronze": "3 days", "Gold": "7 days", "Emerald": "30 days", "Diamond": "90 days", "Champion": "180 days", "Iridescent": "365 days" }
+  },
+  {
+    "hook": "Tag someone who starts streaks but never keeps them..",
+    "hook_sub": "they restart every Monday 😂",
+    "metric": "Daily Ritual Streak",
+    "tiers": { "Bronze": "3 days", "Gold": "7 days", "Emerald": "30 days", "Diamond": "90 days", "Champion": "180 days", "Iridescent": "365 days" }
+  },
+  {
+    "hook": "POV: you broke your streak after 3 days.. again..",
+    "hook_sub": "Bronze behaviour 🥉",
+    "metric": "Daily Ritual Streak",
+    "tiers": { "Bronze": "3 days", "Gold": "7 days", "Emerald": "30 days", "Diamond": "90 days", "Champion": "180 days", "Iridescent": "365 days" }
+  },
+  {
+    "hook": "If daily habits had a ranked ladder..",
+    "hook_sub": "most people would be hard stuck Bronze 📉",
+    "metric": "Daily Ritual Streak",
+    "tiers": { "Bronze": "3 days", "Gold": "7 days", "Emerald": "30 days", "Diamond": "90 days", "Champion": "180 days", "Iridescent": "365 days" }
+  },
+  {
+    "hook": "The gap between Bronze and Iridescent is discipline..",
+    "hook_sub": "nothing else 🧠",
+    "metric": "Daily Ritual Streak",
+    "tiers": { "Bronze": "3 days", "Gold": "7 days", "Emerald": "30 days", "Diamond": "90 days", "Champion": "180 days", "Iridescent": "365 days" }
+  },
+  {
+    "hook": "365 days without breaking the chain..",
+    "hook_sub": "only Iridescent players understand 👑",
+    "metric": "Daily Ritual Streak",
+    "tiers": { "Bronze": "3 days", "Gold": "7 days", "Emerald": "30 days", "Diamond": "90 days", "Champion": "180 days", "Iridescent": "365 days" }
+  },
+
+  {
+    "hook": "No way, there's official ranks for breathwork now..",
+    "hook_sub": "send this to your stressed friend 💀",
+    "metric": "Breathwork Mins This Week",
+    "tiers": { "Bronze": "5 mins", "Gold": "15 mins", "Emerald": "30 mins", "Diamond": "45 mins", "Champion": "60 mins", "Iridescent": "90 mins" }
+  },
+  {
+    "hook": "How many minutes of breathwork did you do this week?",
+    "hook_sub": "be honest 🌬️",
+    "metric": "Breathwork Mins This Week",
+    "tiers": { "Bronze": "5 mins", "Gold": "15 mins", "Emerald": "30 mins", "Diamond": "45 mins", "Champion": "60 mins", "Iridescent": "90 mins" }
+  },
+  {
+    "hook": "Breathwork rankings just dropped..",
+    "hook_sub": "your nervous system is begging you to rank up 💀",
+    "metric": "Breathwork Mins This Week",
+    "tiers": { "Bronze": "5 mins", "Gold": "15 mins", "Emerald": "30 mins", "Diamond": "45 mins", "Champion": "60 mins", "Iridescent": "90 mins" }
+  },
+  {
+    "hook": "People who do breathwork daily are unshakeable..",
+    "hook_sub": "what's your rank? 🧊",
+    "metric": "Breathwork Mins This Week",
+    "tiers": { "Bronze": "5 mins", "Gold": "15 mins", "Emerald": "30 mins", "Diamond": "45 mins", "Champion": "60 mins", "Iridescent": "90 mins" }
+  },
+  {
+    "hook": "Your stress levels are directly tied to this rank..",
+    "hook_sub": "and you know it 😤",
+    "metric": "Breathwork Mins This Week",
+    "tiers": { "Bronze": "5 mins", "Gold": "15 mins", "Emerald": "30 mins", "Diamond": "45 mins", "Champion": "60 mins", "Iridescent": "90 mins" }
+  },
+  {
+    "hook": "Tag someone who's always stressed but never breathes..",
+    "hook_sub": "they need this 🫁",
+    "metric": "Breathwork Mins This Week",
+    "tiers": { "Bronze": "5 mins", "Gold": "15 mins", "Emerald": "30 mins", "Diamond": "45 mins", "Champion": "60 mins", "Iridescent": "90 mins" }
+  },
+  {
+    "hook": "POV: you learned box breathing and never looked back..",
+    "hook_sub": "Champion behaviour 🏆",
+    "metric": "Breathwork Mins This Week",
+    "tiers": { "Bronze": "5 mins", "Gold": "15 mins", "Emerald": "30 mins", "Diamond": "45 mins", "Champion": "60 mins", "Iridescent": "90 mins" }
+  },
+  {
+    "hook": "The most underrated habit in self-improvement..",
+    "hook_sub": "and most people don't even try it 🤦",
+    "metric": "Breathwork Mins This Week",
+    "tiers": { "Bronze": "5 mins", "Gold": "15 mins", "Emerald": "30 mins", "Diamond": "45 mins", "Champion": "60 mins", "Iridescent": "90 mins" }
+  },
+  {
+    "hook": "90 minutes of breathwork a week changes your life..",
+    "hook_sub": "but most people can't even do 5 💀",
+    "metric": "Breathwork Mins This Week",
+    "tiers": { "Bronze": "5 mins", "Gold": "15 mins", "Emerald": "30 mins", "Diamond": "45 mins", "Champion": "60 mins", "Iridescent": "90 mins" }
+  },
+  {
+    "hook": "If calm had a ranking system..",
+    "hook_sub": "Iridescent breathworkers would be at the top 🧘",
+    "metric": "Breathwork Mins This Week",
+    "tiers": { "Bronze": "5 mins", "Gold": "15 mins", "Emerald": "30 mins", "Diamond": "45 mins", "Champion": "60 mins", "Iridescent": "90 mins" }
+  },
+
+  {
+    "hook": "No way, there's official ranks for reading now..",
+    "hook_sub": "send this to someone who says they'll read more 💀",
+    "metric": "Pages Read Today",
+    "tiers": { "Bronze": "5 pages", "Gold": "10 pages", "Emerald": "20 pages", "Diamond": "30 pages", "Champion": "50 pages", "Iridescent": "100 pages" }
+  },
+  {
+    "hook": "How many pages did you read today? Be honest..",
+    "hook_sub": "scrolling Twitter doesn't count 📱",
+    "metric": "Pages Read Today",
+    "tiers": { "Bronze": "5 pages", "Gold": "10 pages", "Emerald": "20 pages", "Diamond": "30 pages", "Champion": "50 pages", "Iridescent": "100 pages" }
+  },
+  {
+    "hook": "Daily reading ranks just dropped..",
+    "hook_sub": "most people didn't read a single page today 💀",
+    "metric": "Pages Read Today",
+    "tiers": { "Bronze": "5 pages", "Gold": "10 pages", "Emerald": "20 pages", "Diamond": "30 pages", "Champion": "50 pages", "Iridescent": "100 pages" }
+  },
+  {
+    "hook": "100 pages a day sounds crazy until you try it..",
+    "hook_sub": "Iridescent readers are different 📖",
+    "metric": "Pages Read Today",
+    "tiers": { "Bronze": "5 pages", "Gold": "10 pages", "Emerald": "20 pages", "Diamond": "30 pages", "Champion": "50 pages", "Iridescent": "100 pages" }
+  },
+  {
+    "hook": "Your daily page count reveals your growth rate..",
+    "hook_sub": "where do you rank? 📚",
+    "metric": "Pages Read Today",
+    "tiers": { "Bronze": "5 pages", "Gold": "10 pages", "Emerald": "20 pages", "Diamond": "30 pages", "Champion": "50 pages", "Iridescent": "100 pages" }
+  },
+  {
+    "hook": "Tag someone who hasn't read a book since school..",
+    "hook_sub": "they're not even Bronze 😂",
+    "metric": "Pages Read Today",
+    "tiers": { "Bronze": "5 pages", "Gold": "10 pages", "Emerald": "20 pages", "Diamond": "30 pages", "Champion": "50 pages", "Iridescent": "100 pages" }
+  },
+  {
+    "hook": "POV: you replaced 30 mins of scrolling with reading..",
+    "hook_sub": "instant rank up 📈",
+    "metric": "Pages Read Today",
+    "tiers": { "Bronze": "5 pages", "Gold": "10 pages", "Emerald": "20 pages", "Diamond": "30 pages", "Champion": "50 pages", "Iridescent": "100 pages" }
+  },
+  {
+    "hook": "If knowledge had a ranking system..",
+    "hook_sub": "daily readers would dominate 🧠",
+    "metric": "Pages Read Today",
+    "tiers": { "Bronze": "5 pages", "Gold": "10 pages", "Emerald": "20 pages", "Diamond": "30 pages", "Champion": "50 pages", "Iridescent": "100 pages" }
+  },
+  {
+    "hook": "The top 1% reads every single day..",
+    "hook_sub": "what's your page count? 👀",
+    "metric": "Pages Read Today",
+    "tiers": { "Bronze": "5 pages", "Gold": "10 pages", "Emerald": "20 pages", "Diamond": "30 pages", "Champion": "50 pages", "Iridescent": "100 pages" }
+  },
+  {
+    "hook": "Reading pages daily is the easiest flex..",
+    "hook_sub": "and most people still won't do it 🤷",
+    "metric": "Pages Read Today",
+    "tiers": { "Bronze": "5 pages", "Gold": "10 pages", "Emerald": "20 pages", "Diamond": "30 pages", "Champion": "50 pages", "Iridescent": "100 pages" }
+  },
+
+  {
+    "hook": "No way, there's official ranks for self-control now..",
+    "hook_sub": "send this to your impulsive friend 💀",
+    "metric": "Apps Blocked Today",
+    "tiers": { "Bronze": "1 app", "Gold": "3 apps", "Emerald": "5 apps", "Diamond": "8 apps", "Champion": "12 apps", "Iridescent": "All of them" }
+  },
+  {
+    "hook": "How many apps did you block today? Be honest..",
+    "hook_sub": "zero isn't a rank 😬",
+    "metric": "Apps Blocked Today",
+    "tiers": { "Bronze": "1 app", "Gold": "3 apps", "Emerald": "5 apps", "Diamond": "8 apps", "Champion": "12 apps", "Iridescent": "All of them" }
+  },
+  {
+    "hook": "Focus rankings just dropped..",
+    "hook_sub": "and most of you have zero apps blocked 💀",
+    "metric": "Apps Blocked Today",
+    "tiers": { "Bronze": "1 app", "Gold": "3 apps", "Emerald": "5 apps", "Diamond": "8 apps", "Champion": "12 apps", "Iridescent": "All of them" }
+  },
+  {
+    "hook": "Blocking all your apps takes real discipline..",
+    "hook_sub": "only Iridescent players go that hard 🔒",
+    "metric": "Apps Blocked Today",
+    "tiers": { "Bronze": "1 app", "Gold": "3 apps", "Emerald": "5 apps", "Diamond": "8 apps", "Champion": "12 apps", "Iridescent": "All of them" }
+  },
+  {
+    "hook": "Your app blocker count says everything about you..",
+    "hook_sub": "where do you rank? 📵",
+    "metric": "Apps Blocked Today",
+    "tiers": { "Bronze": "1 app", "Gold": "3 apps", "Emerald": "5 apps", "Diamond": "8 apps", "Champion": "12 apps", "Iridescent": "All of them" }
+  },
+  {
+    "hook": "Tag someone who can't put their phone down..",
+    "hook_sub": "they need to see this 📱",
+    "metric": "Apps Blocked Today",
+    "tiers": { "Bronze": "1 app", "Gold": "3 apps", "Emerald": "5 apps", "Diamond": "8 apps", "Champion": "12 apps", "Iridescent": "All of them" }
+  },
+  {
+    "hook": "POV: you blocked every app and actually got things done..",
+    "hook_sub": "Iridescent energy ⚡",
+    "metric": "Apps Blocked Today",
+    "tiers": { "Bronze": "1 app", "Gold": "3 apps", "Emerald": "5 apps", "Diamond": "8 apps", "Champion": "12 apps", "Iridescent": "All of them" }
+  },
+  {
+    "hook": "The secret to focus isn't willpower, it's blocking apps..",
+    "hook_sub": "how many do you block? 🎯",
+    "metric": "Apps Blocked Today",
+    "tiers": { "Bronze": "1 app", "Gold": "3 apps", "Emerald": "5 apps", "Diamond": "8 apps", "Champion": "12 apps", "Iridescent": "All of them" }
+  },
+  {
+    "hook": "Imagine actually locking yourself out of distractions..",
+    "hook_sub": "that's what Champions do 🏆",
+    "metric": "Apps Blocked Today",
+    "tiers": { "Bronze": "1 app", "Gold": "3 apps", "Emerald": "5 apps", "Diamond": "8 apps", "Champion": "12 apps", "Iridescent": "All of them" }
+  },
+  {
+    "hook": "If discipline was measured by apps blocked..",
+    "hook_sub": "most people wouldn't even rank 🤷",
+    "metric": "Apps Blocked Today",
+    "tiers": { "Bronze": "1 app", "Gold": "3 apps", "Emerald": "5 apps", "Diamond": "8 apps", "Champion": "12 apps", "Iridescent": "All of them" }
+  },
+
+  {
+    "hook": "No way, there's official ranks for stoic quotes now..",
+    "hook_sub": "send this to your philosophy friend 💀",
+    "metric": "Quotes You Can Recite",
+    "tiers": { "Bronze": "1 quote", "Gold": "5 quotes", "Emerald": "10 quotes", "Diamond": "20 quotes", "Champion": "35 quotes", "Iridescent": "50 quotes" }
+  },
+  {
+    "hook": "How many quotes can you actually recite from memory?",
+    "hook_sub": "screenshots don't count 📸",
+    "metric": "Quotes You Can Recite",
+    "tiers": { "Bronze": "1 quote", "Gold": "5 quotes", "Emerald": "10 quotes", "Diamond": "20 quotes", "Champion": "35 quotes", "Iridescent": "50 quotes" }
+  },
+  {
+    "hook": "Stoic wisdom ranks just dropped..",
+    "hook_sub": "saving quotes isn't the same as knowing them 💀",
+    "metric": "Quotes You Can Recite",
+    "tiers": { "Bronze": "1 quote", "Gold": "5 quotes", "Emerald": "10 quotes", "Diamond": "20 quotes", "Champion": "35 quotes", "Iridescent": "50 quotes" }
+  },
+  {
+    "hook": "If philosophy knowledge had a tier list..",
+    "hook_sub": "where would you rank? 🏛️",
+    "metric": "Quotes You Can Recite",
+    "tiers": { "Bronze": "1 quote", "Gold": "5 quotes", "Emerald": "10 quotes", "Diamond": "20 quotes", "Champion": "35 quotes", "Iridescent": "50 quotes" }
+  },
+  {
+    "hook": "People who memorize wisdom are playing life on easy mode..",
+    "hook_sub": "what's your quote count? 🧠",
+    "metric": "Quotes You Can Recite",
+    "tiers": { "Bronze": "1 quote", "Gold": "5 quotes", "Emerald": "10 quotes", "Diamond": "20 quotes", "Champion": "35 quotes", "Iridescent": "50 quotes" }
+  },
+  {
+    "hook": "Tag someone who posts quotes but can't name the philosopher..",
+    "hook_sub": "they need a reality check 😂",
+    "metric": "Quotes You Can Recite",
+    "tiers": { "Bronze": "1 quote", "Gold": "5 quotes", "Emerald": "10 quotes", "Diamond": "20 quotes", "Champion": "35 quotes", "Iridescent": "50 quotes" }
+  },
+  {
+    "hook": "POV: someone asks your favourite quote and you go blank..",
+    "hook_sub": "Bronze behaviour 🥉",
+    "metric": "Quotes You Can Recite",
+    "tiers": { "Bronze": "1 quote", "Gold": "5 quotes", "Emerald": "10 quotes", "Diamond": "20 quotes", "Champion": "35 quotes", "Iridescent": "50 quotes" }
+  },
+  {
+    "hook": "50 quotes memorized is Marcus Aurelius level..",
+    "hook_sub": "most people can't even name 5 💀",
+    "metric": "Quotes You Can Recite",
+    "tiers": { "Bronze": "1 quote", "Gold": "5 quotes", "Emerald": "10 quotes", "Diamond": "20 quotes", "Champion": "35 quotes", "Iridescent": "50 quotes" }
+  },
+  {
+    "hook": "The wisest people carry quotes in their head, not their phone..",
+    "hook_sub": "how many do you know? 📜",
+    "metric": "Quotes You Can Recite",
+    "tiers": { "Bronze": "1 quote", "Gold": "5 quotes", "Emerald": "10 quotes", "Diamond": "20 quotes", "Champion": "35 quotes", "Iridescent": "50 quotes" }
+  },
+  {
+    "hook": "Knowing quotes by heart hits different in real conversations..",
+    "hook_sub": "Iridescent scholars understand 👑",
+    "metric": "Quotes You Can Recite",
+    "tiers": { "Bronze": "1 quote", "Gold": "5 quotes", "Emerald": "10 quotes", "Diamond": "20 quotes", "Champion": "35 quotes", "Iridescent": "50 quotes" }
+  },
+
+  {
+    "hook": "No way, there's official ranks for gratitude now..",
+    "hook_sub": "send this to someone who never says thanks 💀",
+    "metric": "Gratitude Entries This Week",
+    "tiers": { "Bronze": "1 entry", "Gold": "2 entries", "Emerald": "3 entries", "Diamond": "5 entries", "Champion": "6 entries", "Iridescent": "Every single day" }
+  },
+  {
+    "hook": "How many gratitude entries did you write this week?",
+    "hook_sub": "saying 'I'm grateful' in your head doesn't count 😬",
+    "metric": "Gratitude Entries This Week",
+    "tiers": { "Bronze": "1 entry", "Gold": "2 entries", "Emerald": "3 entries", "Diamond": "5 entries", "Champion": "6 entries", "Iridescent": "Every single day" }
+  },
+  {
+    "hook": "Gratitude rankings just dropped..",
+    "hook_sub": "and most people have zero entries 💀",
+    "metric": "Gratitude Entries This Week",
+    "tiers": { "Bronze": "1 entry", "Gold": "2 entries", "Emerald": "3 entries", "Diamond": "5 entries", "Champion": "6 entries", "Iridescent": "Every single day" }
+  },
+  {
+    "hook": "The happiest people practise gratitude daily..",
+    "hook_sub": "where do you rank? 🙏",
+    "metric": "Gratitude Entries This Week",
+    "tiers": { "Bronze": "1 entry", "Gold": "2 entries", "Emerald": "3 entries", "Diamond": "5 entries", "Champion": "6 entries", "Iridescent": "Every single day" }
+  },
+  {
+    "hook": "If gratitude had a scoreboard..",
+    "hook_sub": "most people wouldn't even show up 🤷",
+    "metric": "Gratitude Entries This Week",
+    "tiers": { "Bronze": "1 entry", "Gold": "2 entries", "Emerald": "3 entries", "Diamond": "5 entries", "Champion": "6 entries", "Iridescent": "Every single day" }
+  },
+  {
+    "hook": "Tag someone who complains about everything..",
+    "hook_sub": "they need to start a gratitude practice 😂",
+    "metric": "Gratitude Entries This Week",
+    "tiers": { "Bronze": "1 entry", "Gold": "2 entries", "Emerald": "3 entries", "Diamond": "5 entries", "Champion": "6 entries", "Iridescent": "Every single day" }
+  },
+  {
+    "hook": "POV: you started writing gratitude daily and life changed..",
+    "hook_sub": "Iridescent mindset shift ✨",
+    "metric": "Gratitude Entries This Week",
+    "tiers": { "Bronze": "1 entry", "Gold": "2 entries", "Emerald": "3 entries", "Diamond": "5 entries", "Champion": "6 entries", "Iridescent": "Every single day" }
+  },
+  {
+    "hook": "Writing what you're grateful for takes 2 minutes..",
+    "hook_sub": "and most people still won't do it 🤦",
+    "metric": "Gratitude Entries This Week",
+    "tiers": { "Bronze": "1 entry", "Gold": "2 entries", "Emerald": "3 entries", "Diamond": "5 entries", "Champion": "6 entries", "Iridescent": "Every single day" }
+  },
+  {
+    "hook": "Every single day is the only acceptable answer..",
+    "hook_sub": "Iridescent or nothing 👑",
+    "metric": "Gratitude Entries This Week",
+    "tiers": { "Bronze": "1 entry", "Gold": "2 entries", "Emerald": "3 entries", "Diamond": "5 entries", "Champion": "6 entries", "Iridescent": "Every single day" }
+  },
+  {
+    "hook": "Gratitude is the simplest hack for happiness..",
+    "hook_sub": "but most people are too lazy to write it down 💀",
+    "metric": "Gratitude Entries This Week",
+    "tiers": { "Bronze": "1 entry", "Gold": "2 entries", "Emerald": "3 entries", "Diamond": "5 entries", "Champion": "6 entries", "Iridescent": "Every single day" }
+  }
+]

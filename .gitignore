@@ -1,5 +1,7 @@
 # Secrets
 podcast-to-social/.env
+social-scheduler/.env
+social-scheduler/scheduler.db
 
 # Local database (replaced by Supabase in production)
 podcast-to-social/data/
@@ -20,3 +22,9 @@ venv/
 video-ads
 image-ads
 carousel-ads
+ads
+
+high-quality-shorts
+lucian-vale
+mass-content-maker/audio
+mass-content-maker/output
