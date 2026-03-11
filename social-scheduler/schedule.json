@@ -7,16 +7,17 @@
       "metric": "Daily Screen Time",
       "hook": "No way, there's official ranks for screen time now..",
       "caption": "No way, there's official ranks for screen time now..\n\nsend this to your phone-addicted friend \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/tp8i4t.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "video_file": "social-scheduler/videos/00-daily-screen-time.mp4",
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "17992482902947212"
     },
     {
       "index": 1,
       "metric": "Daily Screen Time",
       "hook": "Be honest.. what rank is your screen time?",
       "caption": "Be honest.. what rank is your screen time?\n\nmost people won't post theirs \ud83d\ude2c\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/lua9os.mp4",
+      "video_file": "social-scheduler/videos/01-daily-screen-time.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -25,7 +26,7 @@
       "metric": "Daily Screen Time",
       "hook": "POV: you checked your screen time report today..",
       "caption": "POV: you checked your screen time report today..\n\nand you're not proud of it \ud83d\ude2d\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/89ulm7.mp4",
+      "video_file": "social-scheduler/videos/02-daily-screen-time.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -34,7 +35,7 @@
       "metric": "Daily Screen Time",
       "hook": "Your screen time says a lot about your discipline..",
       "caption": "Your screen time says a lot about your discipline..\n\nwhere do you rank? \ud83d\udc40\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/dy5m1a.mp4",
+      "video_file": "social-scheduler/videos/03-daily-screen-time.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -43,7 +44,7 @@
       "metric": "Daily Screen Time",
       "hook": "If screen time had ranks, most people would be Bronze..",
       "caption": "If screen time had ranks, most people would be Bronze..\n\nprove me wrong \ud83e\udd37\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/knqrgt.mp4",
+      "video_file": "social-scheduler/videos/04-daily-screen-time.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -52,7 +53,7 @@
       "metric": "Daily Screen Time",
       "hook": "Tag someone who needs to see their screen time rank..",
       "caption": "Tag someone who needs to see their screen time rank..\n\nthey already know who they are \ud83d\udcf1\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/q5tc9y.mp4",
+      "video_file": "social-scheduler/videos/05-daily-screen-time.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -61,7 +62,7 @@
       "metric": "Daily Screen Time",
       "hook": "Screen time rankings just dropped..",
       "caption": "Screen time rankings just dropped..\n\nand most of you aren't making it past Gold \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/lj93vp.mp4",
+      "video_file": "social-scheduler/videos/06-daily-screen-time.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -70,7 +71,7 @@
       "metric": "Daily Screen Time",
       "hook": "Your screen time is the scoreboard nobody asked for..",
       "caption": "Your screen time is the scoreboard nobody asked for..\n\nbut everyone needs to see \ud83d\udcca\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/lx129q.mp4",
+      "video_file": "social-scheduler/videos/07-daily-screen-time.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -79,7 +80,7 @@
       "metric": "Daily Screen Time",
       "hook": "I know someone who's definitely Bronze on this..",
       "caption": "I know someone who's definitely Bronze on this..\n\ntag them, they need this wake-up call \ud83d\ude34\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/6c0ksn.mp4",
+      "video_file": "social-scheduler/videos/08-daily-screen-time.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -88,7 +89,7 @@
       "metric": "Daily Screen Time",
       "hook": "Imagine flexing your screen time like a rank..",
       "caption": "Imagine flexing your screen time like a rank..\n\nonly Iridescent players move in silence \ud83e\udd2b\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/zofml4.mp4",
+      "video_file": "social-scheduler/videos/09-daily-screen-time.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -97,7 +98,7 @@
       "metric": "Meditation Mins This Month",
       "hook": "No way, there's official ranks for meditation now..",
       "caption": "No way, there's official ranks for meditation now..\n\nsend this to someone who needs inner peace \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/rp3rws.mp4",
+      "video_file": "social-scheduler/videos/10-meditation-mins-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -106,7 +107,7 @@
       "metric": "Meditation Mins This Month",
       "hook": "Be honest.. how many minutes did you meditate this month?",
       "caption": "Be honest.. how many minutes did you meditate this month?\n\nmost people can't even sit still for 5 \ud83d\ude2c\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/m69hy7.mp4",
+      "video_file": "social-scheduler/videos/11-meditation-mins-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -115,7 +116,7 @@
       "metric": "Meditation Mins This Month",
       "hook": "Your meditation minutes reveal your mental strength..",
       "caption": "Your meditation minutes reveal your mental strength..\n\nwhere do you land? \ud83e\uddd8\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/06poci.mp4",
+      "video_file": "social-scheduler/videos/12-meditation-mins-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -124,7 +125,7 @@
       "metric": "Meditation Mins This Month",
       "hook": "If meditation had a leaderboard..",
       "caption": "If meditation had a leaderboard..\n\nmost people wouldn't even qualify \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/3s4wk6.mp4",
+      "video_file": "social-scheduler/videos/13-meditation-mins-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -133,7 +134,7 @@
       "metric": "Meditation Mins This Month",
       "hook": "People who meditate daily are built different..",
       "caption": "People who meditate daily are built different..\n\nwhat rank are you? \ud83e\udde0\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/7tucyt.mp4",
+      "video_file": "social-scheduler/videos/14-meditation-mins-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -142,7 +143,7 @@
       "metric": "Meditation Mins This Month",
       "hook": "POV: you actually tracked your meditation this month..",
       "caption": "POV: you actually tracked your meditation this month..\n\nand now you know the truth \ud83d\ude33\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/lvfzjy.mp4",
+      "video_file": "social-scheduler/videos/15-meditation-mins-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -151,7 +152,7 @@
       "metric": "Meditation Mins This Month",
       "hook": "Meditation rankings just dropped..",
       "caption": "Meditation rankings just dropped..\n\nsend this to someone who says they meditate but doesn't \ud83d\udc40\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/cim0wu.mp4",
+      "video_file": "social-scheduler/videos/16-meditation-mins-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -160,7 +161,7 @@
       "metric": "Meditation Mins This Month",
       "hook": "The people who need meditation the most don't do it..",
       "caption": "The people who need meditation the most don't do it..\n\ntag them \ud83e\udee0\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/ml9f7d.mp4",
+      "video_file": "social-scheduler/videos/17-meditation-mins-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -169,7 +170,7 @@
       "metric": "Meditation Mins This Month",
       "hook": "Still think meditation is a waste of time?",
       "caption": "Still think meditation is a waste of time?\n\ncheck your rank and get back to me \ud83d\ude4f\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/q1njxm.mp4",
+      "video_file": "social-scheduler/videos/18-meditation-mins-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -178,7 +179,7 @@
       "metric": "Meditation Mins This Month",
       "hook": "Your meditation rank says everything about your peace..",
       "caption": "Your meditation rank says everything about your peace..\n\nno cap \ud83e\uddd8\u200d\u2642\ufe0f\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/u25pwl.mp4",
+      "video_file": "social-scheduler/videos/19-meditation-mins-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -187,7 +188,7 @@
       "metric": "Reflections This Month",
       "hook": "No way, there's official ranks for journaling now..",
       "caption": "No way, there's official ranks for journaling now..\n\nsend this to your overthinking friend \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/kqtcc6.mp4",
+      "video_file": "social-scheduler/videos/20-reflections-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -196,7 +197,7 @@
       "metric": "Reflections This Month",
       "hook": "How many times did you journal this month? Be honest..",
       "caption": "How many times did you journal this month? Be honest..\n\nthought so \ud83d\udcd3\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/grd944.mp4",
+      "video_file": "social-scheduler/videos/21-reflections-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -205,7 +206,7 @@
       "metric": "Reflections This Month",
       "hook": "Journaling ranks just dropped..",
       "caption": "Journaling ranks just dropped..\n\nmost people can't even write one honest sentence \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/oye5t1.mp4",
+      "video_file": "social-scheduler/videos/22-reflections-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -214,7 +215,7 @@
       "metric": "Reflections This Month",
       "hook": "The people with the calmest minds journal daily..",
       "caption": "The people with the calmest minds journal daily..\n\nwhere do you rank? \u270d\ufe0f\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/nnkktn.mp4",
+      "video_file": "social-scheduler/videos/23-reflections-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -223,7 +224,7 @@
       "metric": "Reflections This Month",
       "hook": "If journaling had a scoreboard..",
       "caption": "If journaling had a scoreboard..\n\nmost of you would be unranked \ud83d\ude2c\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/g1x8ac.mp4",
+      "video_file": "social-scheduler/videos/24-reflections-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -232,7 +233,7 @@
       "metric": "Reflections This Month",
       "hook": "POV: you say you journal but only wrote once this month..",
       "caption": "POV: you say you journal but only wrote once this month..\n\nBronze behaviour \ud83e\udd49\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/b5bgu1.mp4",
+      "video_file": "social-scheduler/videos/25-reflections-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -241,7 +242,7 @@
       "metric": "Reflections This Month",
       "hook": "Tag someone who says they journal but never does..",
       "caption": "Tag someone who says they journal but never does..\n\nthey need to see their rank \ud83d\udcdd\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/up0ffg.mp4",
+      "video_file": "social-scheduler/videos/26-reflections-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -250,7 +251,7 @@
       "metric": "Reflections This Month",
       "hook": "Writing your thoughts down is a cheat code..",
       "caption": "Writing your thoughts down is a cheat code..\n\nbut most people still don't do it \ud83e\udd26\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/gv249i.mp4",
+      "video_file": "social-scheduler/videos/27-reflections-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -259,7 +260,7 @@
       "metric": "Reflections This Month",
       "hook": "Your reflection count reveals your self-awareness..",
       "caption": "Your reflection count reveals your self-awareness..\n\nwhat's your rank? \ud83e\ude9e\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/r9xe7f.mp4",
+      "video_file": "social-scheduler/videos/28-reflections-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -268,7 +269,7 @@
       "metric": "Reflections This Month",
       "hook": "Iridescent journalers are a different breed..",
       "caption": "Iridescent journalers are a different breed..\n\n30 reflections in a month is elite \ud83d\udc51\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/twtuus.mp4",
+      "video_file": "social-scheduler/videos/29-reflections-this-month.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -277,7 +278,7 @@
       "metric": "Books Read This Year",
       "hook": "No way, there's official ranks for philosophy now..",
       "caption": "No way, there's official ranks for philosophy now..\n\nsend this to your book nerd friend \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/pbda81.mp4",
+      "video_file": "social-scheduler/videos/30-books-read-this-year.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -286,7 +287,7 @@
       "metric": "Books Read This Year",
       "hook": "How many books have you actually read this year?",
       "caption": "How many books have you actually read this year?\n\naudiobooks don't count \ud83d\udcda\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/1nstos.mp4",
+      "video_file": "social-scheduler/videos/31-books-read-this-year.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -295,7 +296,7 @@
       "metric": "Books Read This Year",
       "hook": "Reading ranks just dropped..",
       "caption": "Reading ranks just dropped..\n\nand buying books doesn't count as reading them \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/5vuvsh.mp4",
+      "video_file": "social-scheduler/videos/32-books-read-this-year.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -304,7 +305,7 @@
       "metric": "Books Read This Year",
       "hook": "The smartest people you know read 2 books a month..",
       "caption": "The smartest people you know read 2 books a month..\n\nwhere do you rank? \ud83d\udcd6\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/papdnm.mp4",
+      "video_file": "social-scheduler/videos/33-books-read-this-year.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -313,7 +314,7 @@
       "metric": "Books Read This Year",
       "hook": "Your bookshelf is judging you right now..",
       "caption": "Your bookshelf is judging you right now..\n\nhow many did you actually finish? \ud83d\udc40\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/iaml2f.mp4",
+      "video_file": "social-scheduler/videos/34-books-read-this-year.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -322,7 +323,7 @@
       "metric": "Books Read This Year",
       "hook": "POV: someone asks how many books you've read this year..",
       "caption": "POV: someone asks how many books you've read this year..\n\nand you have to lie \ud83d\ude05\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/ocbswv.mp4",
+      "video_file": "social-scheduler/videos/35-books-read-this-year.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -331,7 +332,7 @@
       "metric": "Books Read This Year",
       "hook": "Tag someone who buys books but never reads them..",
       "caption": "Tag someone who buys books but never reads them..\n\ntheir shelf is just decoration at this point \ud83e\udee0\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/ol042q.mp4",
+      "video_file": "social-scheduler/videos/36-books-read-this-year.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -340,7 +341,7 @@
       "metric": "Books Read This Year",
       "hook": "Readers are leaders.. but most people aren't reading..",
       "caption": "Readers are leaders.. but most people aren't reading..\n\nwhat's your rank? \ud83c\udfc6\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/d8ccqu.mp4",
+      "video_file": "social-scheduler/videos/37-books-read-this-year.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -349,7 +350,7 @@
       "metric": "Books Read This Year",
       "hook": "24 books a year is only 2 a month..",
       "caption": "24 books a year is only 2 a month..\n\nand most people still can't do it \ud83e\udd37\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/ykyvry.mp4",
+      "video_file": "social-scheduler/videos/38-books-read-this-year.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -358,7 +359,7 @@
       "metric": "Books Read This Year",
       "hook": "If reading had competitive ranks..",
       "caption": "If reading had competitive ranks..\n\nwhat tier would you be in? \ud83d\udcd5\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/spvt7o.mp4",
+      "video_file": "social-scheduler/videos/39-books-read-this-year.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -367,7 +368,7 @@
       "metric": "Daily Ritual Streak",
       "hook": "No way, there's official ranks for daily streaks now..",
       "caption": "No way, there's official ranks for daily streaks now..\n\nsend this to someone who can't stay consistent \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/rimjng.mp4",
+      "video_file": "social-scheduler/videos/40-daily-ritual-streak.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -376,7 +377,7 @@
       "metric": "Daily Ritual Streak",
       "hook": "Be honest.. how long is your longest streak?",
       "caption": "Be honest.. how long is your longest streak?\n\nquitting on day 4 doesn't count \ud83d\ude2c\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/thlgtq.mp4",
+      "video_file": "social-scheduler/videos/41-daily-ritual-streak.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -385,7 +386,7 @@
       "metric": "Daily Ritual Streak",
       "hook": "Consistency rankings just dropped..",
       "caption": "Consistency rankings just dropped..\n\nmost of you won't make it past Gold \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/0xbc0u.mp4",
+      "video_file": "social-scheduler/videos/42-daily-ritual-streak.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -394,7 +395,7 @@
       "metric": "Daily Ritual Streak",
       "hook": "A 365-day streak is not luck, it's identity..",
       "caption": "A 365-day streak is not luck, it's identity..\n\nwhat's your rank? \ud83d\udd25\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/w3jxad.mp4",
+      "video_file": "social-scheduler/videos/43-daily-ritual-streak.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -403,7 +404,7 @@
       "metric": "Daily Ritual Streak",
       "hook": "Your streak length reveals your discipline..",
       "caption": "Your streak length reveals your discipline..\n\nno excuses, where do you land? \ud83d\udcaa\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/jgufcc.mp4",
+      "video_file": "social-scheduler/videos/44-daily-ritual-streak.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -412,7 +413,7 @@
       "metric": "Daily Ritual Streak",
       "hook": "Tag someone who starts streaks but never keeps them..",
       "caption": "Tag someone who starts streaks but never keeps them..\n\nthey restart every Monday \ud83d\ude02\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/ek9so3.mp4",
+      "video_file": "social-scheduler/videos/45-daily-ritual-streak.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -421,7 +422,7 @@
       "metric": "Daily Ritual Streak",
       "hook": "POV: you broke your streak after 3 days.. again..",
       "caption": "POV: you broke your streak after 3 days.. again..\n\nBronze behaviour \ud83e\udd49\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/6fp4cd.mp4",
+      "video_file": "social-scheduler/videos/46-daily-ritual-streak.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -430,7 +431,7 @@
       "metric": "Daily Ritual Streak",
       "hook": "If daily habits had a ranked ladder..",
       "caption": "If daily habits had a ranked ladder..\n\nmost people would be hard stuck Bronze \ud83d\udcc9\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/4ixmoi.mp4",
+      "video_file": "social-scheduler/videos/47-daily-ritual-streak.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -439,7 +440,7 @@
       "metric": "Daily Ritual Streak",
       "hook": "The gap between Bronze and Iridescent is discipline..",
       "caption": "The gap between Bronze and Iridescent is discipline..\n\nnothing else \ud83e\udde0\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/ju34i1.mp4",
+      "video_file": "social-scheduler/videos/48-daily-ritual-streak.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -448,7 +449,7 @@
       "metric": "Daily Ritual Streak",
       "hook": "365 days without breaking the chain..",
       "caption": "365 days without breaking the chain..\n\nonly Iridescent players understand \ud83d\udc51\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/qetcwn.mp4",
+      "video_file": "social-scheduler/videos/49-daily-ritual-streak.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -457,7 +458,7 @@
       "metric": "Breathwork Mins This Week",
       "hook": "No way, there's official ranks for breathwork now..",
       "caption": "No way, there's official ranks for breathwork now..\n\nsend this to your stressed friend \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/qvydq2.mp4",
+      "video_file": "social-scheduler/videos/50-breathwork-mins-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -466,7 +467,7 @@
       "metric": "Breathwork Mins This Week",
       "hook": "How many minutes of breathwork did you do this week?",
       "caption": "How many minutes of breathwork did you do this week?\n\nbe honest \ud83c\udf2c\ufe0f\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/qyqyp7.mp4",
+      "video_file": "social-scheduler/videos/51-breathwork-mins-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -475,7 +476,7 @@
       "metric": "Breathwork Mins This Week",
       "hook": "Breathwork rankings just dropped..",
       "caption": "Breathwork rankings just dropped..\n\nyour nervous system is begging you to rank up \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/c88xlb.mp4",
+      "video_file": "social-scheduler/videos/52-breathwork-mins-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -484,7 +485,7 @@
       "metric": "Breathwork Mins This Week",
       "hook": "People who do breathwork daily are unshakeable..",
       "caption": "People who do breathwork daily are unshakeable..\n\nwhat's your rank? \ud83e\uddca\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/l003cq.mp4",
+      "video_file": "social-scheduler/videos/53-breathwork-mins-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -493,7 +494,7 @@
       "metric": "Breathwork Mins This Week",
       "hook": "Your stress levels are directly tied to this rank..",
       "caption": "Your stress levels are directly tied to this rank..\n\nand you know it \ud83d\ude24\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/ltawag.mp4",
+      "video_file": "social-scheduler/videos/54-breathwork-mins-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -502,7 +503,7 @@
       "metric": "Breathwork Mins This Week",
       "hook": "Tag someone who's always stressed but never breathes..",
       "caption": "Tag someone who's always stressed but never breathes..\n\nthey need this \ud83e\udec1\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/5x2rj7.mp4",
+      "video_file": "social-scheduler/videos/55-breathwork-mins-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -511,7 +512,7 @@
       "metric": "Breathwork Mins This Week",
       "hook": "POV: you learned box breathing and never looked back..",
       "caption": "POV: you learned box breathing and never looked back..\n\nChampion behaviour \ud83c\udfc6\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/h2naxu.mp4",
+      "video_file": "social-scheduler/videos/56-breathwork-mins-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -520,7 +521,7 @@
       "metric": "Breathwork Mins This Week",
       "hook": "The most underrated habit in self-improvement..",
       "caption": "The most underrated habit in self-improvement..\n\nand most people don't even try it \ud83e\udd26\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/xo5rjc.mp4",
+      "video_file": "social-scheduler/videos/57-breathwork-mins-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -529,7 +530,7 @@
       "metric": "Breathwork Mins This Week",
       "hook": "90 minutes of breathwork a week changes your life..",
       "caption": "90 minutes of breathwork a week changes your life..\n\nbut most people can't even do 5 \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/srolm0.mp4",
+      "video_file": "social-scheduler/videos/58-breathwork-mins-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -538,7 +539,7 @@
       "metric": "Breathwork Mins This Week",
       "hook": "If calm had a ranking system..",
       "caption": "If calm had a ranking system..\n\nIridescent breathworkers would be at the top \ud83e\uddd8\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/e5g283.mp4",
+      "video_file": "social-scheduler/videos/59-breathwork-mins-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -547,7 +548,7 @@
       "metric": "Pages Read Today",
       "hook": "No way, there's official ranks for reading now..",
       "caption": "No way, there's official ranks for reading now..\n\nsend this to someone who says they'll read more \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/9vg46b.mp4",
+      "video_file": "social-scheduler/videos/60-pages-read-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -556,7 +557,7 @@
       "metric": "Pages Read Today",
       "hook": "How many pages did you read today? Be honest..",
       "caption": "How many pages did you read today? Be honest..\n\nscrolling Twitter doesn't count \ud83d\udcf1\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/68ju1p.mp4",
+      "video_file": "social-scheduler/videos/61-pages-read-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -565,7 +566,7 @@
       "metric": "Pages Read Today",
       "hook": "Daily reading ranks just dropped..",
       "caption": "Daily reading ranks just dropped..\n\nmost people didn't read a single page today \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/pom2yy.mp4",
+      "video_file": "social-scheduler/videos/62-pages-read-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -574,7 +575,7 @@
       "metric": "Pages Read Today",
       "hook": "100 pages a day sounds crazy until you try it..",
       "caption": "100 pages a day sounds crazy until you try it..\n\nIridescent readers are different \ud83d\udcd6\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/jloite.mp4",
+      "video_file": "social-scheduler/videos/63-pages-read-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -583,7 +584,7 @@
       "metric": "Pages Read Today",
       "hook": "Your daily page count reveals your growth rate..",
       "caption": "Your daily page count reveals your growth rate..\n\nwhere do you rank? \ud83d\udcda\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/rjufd6.mp4",
+      "video_file": "social-scheduler/videos/64-pages-read-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -592,7 +593,7 @@
       "metric": "Pages Read Today",
       "hook": "Tag someone who hasn't read a book since school..",
       "caption": "Tag someone who hasn't read a book since school..\n\nthey're not even Bronze \ud83d\ude02\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/jhk5eo.mp4",
+      "video_file": "social-scheduler/videos/65-pages-read-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -601,7 +602,7 @@
       "metric": "Pages Read Today",
       "hook": "POV: you replaced 30 mins of scrolling with reading..",
       "caption": "POV: you replaced 30 mins of scrolling with reading..\n\ninstant rank up \ud83d\udcc8\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/rbvf5v.mp4",
+      "video_file": "social-scheduler/videos/66-pages-read-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -610,7 +611,7 @@
       "metric": "Pages Read Today",
       "hook": "If knowledge had a ranking system..",
       "caption": "If knowledge had a ranking system..\n\ndaily readers would dominate \ud83e\udde0\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/nu5uib.mp4",
+      "video_file": "social-scheduler/videos/67-pages-read-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -619,7 +620,7 @@
       "metric": "Pages Read Today",
       "hook": "The top 1% reads every single day..",
       "caption": "The top 1% reads every single day..\n\nwhat's your page count? \ud83d\udc40\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/fp8xol.mp4",
+      "video_file": "social-scheduler/videos/68-pages-read-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -628,7 +629,7 @@
       "metric": "Pages Read Today",
       "hook": "Reading pages daily is the easiest flex..",
       "caption": "Reading pages daily is the easiest flex..\n\nand most people still won't do it \ud83e\udd37\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/6p82jq.mp4",
+      "video_file": "social-scheduler/videos/69-pages-read-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -637,7 +638,7 @@
       "metric": "Apps Blocked Today",
       "hook": "No way, there's official ranks for self-control now..",
       "caption": "No way, there's official ranks for self-control now..\n\nsend this to your impulsive friend \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/3307pe.mp4",
+      "video_file": "social-scheduler/videos/70-apps-blocked-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -646,7 +647,7 @@
       "metric": "Apps Blocked Today",
       "hook": "How many apps did you block today? Be honest..",
       "caption": "How many apps did you block today? Be honest..\n\nzero isn't a rank \ud83d\ude2c\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/gszbxq.mp4",
+      "video_file": "social-scheduler/videos/71-apps-blocked-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -655,7 +656,7 @@
       "metric": "Apps Blocked Today",
       "hook": "Focus rankings just dropped..",
       "caption": "Focus rankings just dropped..\n\nand most of you have zero apps blocked \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/d7elm8.mp4",
+      "video_file": "social-scheduler/videos/72-apps-blocked-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -664,7 +665,7 @@
       "metric": "Apps Blocked Today",
       "hook": "Blocking all your apps takes real discipline..",
       "caption": "Blocking all your apps takes real discipline..\n\nonly Iridescent players go that hard \ud83d\udd12\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/nri15h.mp4",
+      "video_file": "social-scheduler/videos/73-apps-blocked-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -673,7 +674,7 @@
       "metric": "Apps Blocked Today",
       "hook": "Your app blocker count says everything about you..",
       "caption": "Your app blocker count says everything about you..\n\nwhere do you rank? \ud83d\udcf5\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/yst36q.mp4",
+      "video_file": "social-scheduler/videos/74-apps-blocked-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -682,7 +683,7 @@
       "metric": "Apps Blocked Today",
       "hook": "Tag someone who can't put their phone down..",
       "caption": "Tag someone who can't put their phone down..\n\nthey need to see this \ud83d\udcf1\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/hjv5f7.mp4",
+      "video_file": "social-scheduler/videos/75-apps-blocked-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -691,7 +692,7 @@
       "metric": "Apps Blocked Today",
       "hook": "POV: you blocked every app and actually got things done..",
       "caption": "POV: you blocked every app and actually got things done..\n\nIridescent energy \u26a1\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/ymj3vp.mp4",
+      "video_file": "social-scheduler/videos/76-apps-blocked-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -700,7 +701,7 @@
       "metric": "Apps Blocked Today",
       "hook": "The secret to focus isn't willpower, it's blocking apps..",
       "caption": "The secret to focus isn't willpower, it's blocking apps..\n\nhow many do you block? \ud83c\udfaf\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/vmoky7.mp4",
+      "video_file": "social-scheduler/videos/77-apps-blocked-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -709,7 +710,7 @@
       "metric": "Apps Blocked Today",
       "hook": "Imagine actually locking yourself out of distractions..",
       "caption": "Imagine actually locking yourself out of distractions..\n\nthat's what Champions do \ud83c\udfc6\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/k81z8s.mp4",
+      "video_file": "social-scheduler/videos/78-apps-blocked-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -718,7 +719,7 @@
       "metric": "Apps Blocked Today",
       "hook": "If discipline was measured by apps blocked..",
       "caption": "If discipline was measured by apps blocked..\n\nmost people wouldn't even rank \ud83e\udd37\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/yfc2qe.mp4",
+      "video_file": "social-scheduler/videos/79-apps-blocked-today.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -727,7 +728,7 @@
       "metric": "Quotes You Can Recite",
       "hook": "No way, there's official ranks for stoic quotes now..",
       "caption": "No way, there's official ranks for stoic quotes now..\n\nsend this to your philosophy friend \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/oloylz.mp4",
+      "video_file": "social-scheduler/videos/80-quotes-you-can-recite.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -736,7 +737,7 @@
       "metric": "Quotes You Can Recite",
       "hook": "How many quotes can you actually recite from memory?",
       "caption": "How many quotes can you actually recite from memory?\n\nscreenshots don't count \ud83d\udcf8\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/fjf5em.mp4",
+      "video_file": "social-scheduler/videos/81-quotes-you-can-recite.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -745,7 +746,7 @@
       "metric": "Quotes You Can Recite",
       "hook": "Stoic wisdom ranks just dropped..",
       "caption": "Stoic wisdom ranks just dropped..\n\nsaving quotes isn't the same as knowing them \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/a798y6.mp4",
+      "video_file": "social-scheduler/videos/82-quotes-you-can-recite.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -754,7 +755,7 @@
       "metric": "Quotes You Can Recite",
       "hook": "If philosophy knowledge had a tier list..",
       "caption": "If philosophy knowledge had a tier list..\n\nwhere would you rank? \ud83c\udfdb\ufe0f\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/jcov3q.mp4",
+      "video_file": "social-scheduler/videos/83-quotes-you-can-recite.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -763,7 +764,7 @@
       "metric": "Quotes You Can Recite",
       "hook": "People who memorize wisdom are playing life on easy mode..",
       "caption": "People who memorize wisdom are playing life on easy mode..\n\nwhat's your quote count? \ud83e\udde0\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/auo8ie.mp4",
+      "video_file": "social-scheduler/videos/84-quotes-you-can-recite.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -772,7 +773,7 @@
       "metric": "Quotes You Can Recite",
       "hook": "Tag someone who posts quotes but can't name the philosopher..",
       "caption": "Tag someone who posts quotes but can't name the philosopher..\n\nthey need a reality check \ud83d\ude02\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/ofby6s.mp4",
+      "video_file": "social-scheduler/videos/85-quotes-you-can-recite.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -781,7 +782,7 @@
       "metric": "Quotes You Can Recite",
       "hook": "POV: someone asks your favourite quote and you go blank..",
       "caption": "POV: someone asks your favourite quote and you go blank..\n\nBronze behaviour \ud83e\udd49\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/jbrdjz.mp4",
+      "video_file": "social-scheduler/videos/86-quotes-you-can-recite.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -790,7 +791,7 @@
       "metric": "Quotes You Can Recite",
       "hook": "50 quotes memorized is Marcus Aurelius level..",
       "caption": "50 quotes memorized is Marcus Aurelius level..\n\nmost people can't even name 5 \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/imlqzm.mp4",
+      "video_file": "social-scheduler/videos/87-quotes-you-can-recite.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -799,7 +800,7 @@
       "metric": "Quotes You Can Recite",
       "hook": "The wisest people carry quotes in their head, not their phone..",
       "caption": "The wisest people carry quotes in their head, not their phone..\n\nhow many do you know? \ud83d\udcdc\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/zrs0c9.mp4",
+      "video_file": "social-scheduler/videos/88-quotes-you-can-recite.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -808,7 +809,7 @@
       "metric": "Quotes You Can Recite",
       "hook": "Knowing quotes by heart hits different in real conversations..",
       "caption": "Knowing quotes by heart hits different in real conversations..\n\nIridescent scholars understand \ud83d\udc51\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/h0unhq.mp4",
+      "video_file": "social-scheduler/videos/89-quotes-you-can-recite.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -817,7 +818,7 @@
       "metric": "Gratitude Entries This Week",
       "hook": "No way, there's official ranks for gratitude now..",
       "caption": "No way, there's official ranks for gratitude now..\n\nsend this to someone who never says thanks \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/3yhcpw.mp4",
+      "video_file": "social-scheduler/videos/90-gratitude-entries-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -826,7 +827,7 @@
       "metric": "Gratitude Entries This Week",
       "hook": "How many gratitude entries did you write this week?",
       "caption": "How many gratitude entries did you write this week?\n\nsaying 'I'm grateful' in your head doesn't count \ud83d\ude2c\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/e457m8.mp4",
+      "video_file": "social-scheduler/videos/91-gratitude-entries-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -835,7 +836,7 @@
       "metric": "Gratitude Entries This Week",
       "hook": "Gratitude rankings just dropped..",
       "caption": "Gratitude rankings just dropped..\n\nand most people have zero entries \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/xtma99.mp4",
+      "video_file": "social-scheduler/videos/92-gratitude-entries-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -844,7 +845,7 @@
       "metric": "Gratitude Entries This Week",
       "hook": "The happiest people practise gratitude daily..",
       "caption": "The happiest people practise gratitude daily..\n\nwhere do you rank? \ud83d\ude4f\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/sxf1oo.mp4",
+      "video_file": "social-scheduler/videos/93-gratitude-entries-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -853,7 +854,7 @@
       "metric": "Gratitude Entries This Week",
       "hook": "If gratitude had a scoreboard..",
       "caption": "If gratitude had a scoreboard..\n\nmost people wouldn't even show up \ud83e\udd37\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/8pxsol.mp4",
+      "video_file": "social-scheduler/videos/94-gratitude-entries-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -862,7 +863,7 @@
       "metric": "Gratitude Entries This Week",
       "hook": "Tag someone who complains about everything..",
       "caption": "Tag someone who complains about everything..\n\nthey need to start a gratitude practice \ud83d\ude02\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/fgozi3.mp4",
+      "video_file": "social-scheduler/videos/95-gratitude-entries-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -871,7 +872,7 @@
       "metric": "Gratitude Entries This Week",
       "hook": "POV: you started writing gratitude daily and life changed..",
       "caption": "POV: you started writing gratitude daily and life changed..\n\nIridescent mindset shift \u2728\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/coes9b.mp4",
+      "video_file": "social-scheduler/videos/96-gratitude-entries-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -880,7 +881,7 @@
       "metric": "Gratitude Entries This Week",
       "hook": "Writing what you're grateful for takes 2 minutes..",
       "caption": "Writing what you're grateful for takes 2 minutes..\n\nand most people still won't do it \ud83e\udd26\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/9amrgt.mp4",
+      "video_file": "social-scheduler/videos/97-gratitude-entries-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -889,7 +890,7 @@
       "metric": "Gratitude Entries This Week",
       "hook": "Every single day is the only acceptable answer..",
       "caption": "Every single day is the only acceptable answer..\n\nIridescent or nothing \ud83d\udc51\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/73ggea.mp4",
+      "video_file": "social-scheduler/videos/98-gratitude-entries-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     },
@@ -898,7 +899,7 @@
       "metric": "Gratitude Entries This Week",
       "hook": "Gratitude is the simplest hack for happiness..",
       "caption": "Gratitude is the simplest hack for happiness..\n\nbut most people are too lazy to write it down \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
-      "video_url": "https://files.catbox.moe/r27bqz.mp4",
+      "video_file": "social-scheduler/videos/99-gratitude-entries-this-week.mp4",
       "ig_published": false,
       "fb_published": false
     }
