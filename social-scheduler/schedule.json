@@ -28,8 +28,9 @@
       "hook": "POV: you checked your screen time report today..",
       "caption": "POV: you checked your screen time report today..\n\nand you're not proud of it \ud83d\ude2d\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/02-daily-screen-time.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "17930436474057154"
     },
     {
       "index": 3,
