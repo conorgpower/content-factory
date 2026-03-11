@@ -78,8 +78,9 @@
       "hook": "Your screen time is the scoreboard nobody asked for..",
       "caption": "Your screen time is the scoreboard nobody asked for..\n\nbut everyone needs to see \ud83d\udcca\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/07-daily-screen-time.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18367228894161522"
     },
     {
       "index": 8,
