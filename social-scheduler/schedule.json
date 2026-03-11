@@ -68,8 +68,9 @@
       "hook": "Screen time rankings just dropped..",
       "caption": "Screen time rankings just dropped..\n\nand most of you aren't making it past Gold \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/06-daily-screen-time.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18084111194593734"
     },
     {
       "index": 7,
