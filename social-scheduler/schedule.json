@@ -38,8 +38,9 @@
       "hook": "Your screen time says a lot about your discipline..",
       "caption": "Your screen time says a lot about your discipline..\n\nwhere do you rank? \ud83d\udc40\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/03-daily-screen-time.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18095071496054876"
     },
     {
       "index": 4,
