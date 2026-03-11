@@ -58,8 +58,9 @@
       "hook": "Tag someone who needs to see their screen time rank..",
       "caption": "Tag someone who needs to see their screen time rank..\n\nthey already know who they are \ud83d\udcf1\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/05-daily-screen-time.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18079115735374352"
     },
     {
       "index": 6,
