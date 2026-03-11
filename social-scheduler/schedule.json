@@ -18,8 +18,9 @@
       "hook": "Be honest.. what rank is your screen time?",
       "caption": "Be honest.. what rank is your screen time?\n\nmost people won't post theirs \ud83d\ude2c\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/01-daily-screen-time.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18110539096757763"
     },
     {
       "index": 2,
