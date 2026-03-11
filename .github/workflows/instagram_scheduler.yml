@@ -14,6 +14,9 @@ on:
     - cron: "0 3 * * *"    # 10:00 PM EST /  7:00 PM PST — late evening
   workflow_dispatch: # Allow manual trigger
 
+permissions:
+  contents: write
+
 jobs:
   publish:
     runs-on: ubuntu-latest
