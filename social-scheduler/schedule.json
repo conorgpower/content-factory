@@ -128,8 +128,9 @@
       "hook": "Your meditation minutes reveal your mental strength..",
       "caption": "Your meditation minutes reveal your mental strength..\n\nwhere do you land? \ud83e\uddd8\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/12-meditation-mins-this-month.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18082099031458825"
     },
     {
       "index": 13,
