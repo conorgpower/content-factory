@@ -118,8 +118,9 @@
       "hook": "Be honest.. how many minutes did you meditate this month?",
       "caption": "Be honest.. how many minutes did you meditate this month?\n\nmost people can't even sit still for 5 \ud83d\ude2c\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/11-meditation-mins-this-month.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "17876849085520351"
     },
     {
       "index": 12,
