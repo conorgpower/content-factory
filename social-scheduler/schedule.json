@@ -168,8 +168,9 @@
       "hook": "Meditation rankings just dropped..",
       "caption": "Meditation rankings just dropped..\n\nsend this to someone who says they meditate but doesn't \ud83d\udc40\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/16-meditation-mins-this-month.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18077907446527740"
     },
     {
       "index": 17,
