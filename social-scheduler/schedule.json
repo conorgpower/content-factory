@@ -228,8 +228,9 @@
       "hook": "Journaling ranks just dropped..",
       "caption": "Journaling ranks just dropped..\n\nmost people can't even write one honest sentence \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/22-reflections-this-month.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18175712809386730"
     },
     {
       "index": 23,
