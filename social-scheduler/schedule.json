@@ -268,8 +268,9 @@
       "hook": "Tag someone who says they journal but never does..",
       "caption": "Tag someone who says they journal but never does..\n\nthey need to see their rank \ud83d\udcdd\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/26-reflections-this-month.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "17971786229861611"
     },
     {
       "index": 27,
