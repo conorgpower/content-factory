@@ -248,8 +248,9 @@
       "hook": "If journaling had a scoreboard..",
       "caption": "If journaling had a scoreboard..\n\nmost of you would be unranked \ud83d\ude2c\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/24-reflections-this-month.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18100066331477010"
     },
     {
       "index": 25,
