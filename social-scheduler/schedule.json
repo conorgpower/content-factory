@@ -258,8 +258,9 @@
       "hook": "POV: you say you journal but only wrote once this month..",
       "caption": "POV: you say you journal but only wrote once this month..\n\nBronze behaviour \ud83e\udd49\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/25-reflections-this-month.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "17963336339901391"
     },
     {
       "index": 26,
