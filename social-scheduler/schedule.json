@@ -218,8 +218,9 @@
       "hook": "How many times did you journal this month? Be honest..",
       "caption": "How many times did you journal this month? Be honest..\n\nthought so \ud83d\udcd3\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/21-reflections-this-month.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18110108278766158"
     },
     {
       "index": 22,
