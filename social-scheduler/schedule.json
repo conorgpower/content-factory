@@ -188,8 +188,9 @@
       "hook": "Still think meditation is a waste of time?",
       "caption": "Still think meditation is a waste of time?\n\ncheck your rank and get back to me \ud83d\ude4f\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/18-meditation-mins-this-month.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18061170995362591"
     },
     {
       "index": 19,
