@@ -238,8 +238,9 @@
       "hook": "The people with the calmest minds journal daily..",
       "caption": "The people with the calmest minds journal daily..\n\nwhere do you rank? \u270d\ufe0f\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/23-reflections-this-month.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18105662617722125"
     },
     {
       "index": 24,
