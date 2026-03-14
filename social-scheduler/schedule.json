@@ -288,8 +288,9 @@
       "hook": "Your reflection count reveals your self-awareness..",
       "caption": "Your reflection count reveals your self-awareness..\n\nwhat's your rank? \ud83e\ude9e\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/28-reflections-this-month.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18093163636857734"
     },
     {
       "index": 29,
