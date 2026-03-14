@@ -348,8 +348,9 @@
       "hook": "Your bookshelf is judging you right now..",
       "caption": "Your bookshelf is judging you right now..\n\nhow many did you actually finish? \ud83d\udc40\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/34-books-read-this-year.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18073091816536902"
     },
     {
       "index": 35,
