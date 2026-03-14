@@ -358,8 +358,9 @@
       "hook": "POV: someone asks how many books you've read this year..",
       "caption": "POV: someone asks how many books you've read this year..\n\nand you have to lie \ud83d\ude05\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/35-books-read-this-year.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18300360724263958"
     },
     {
       "index": 36,
