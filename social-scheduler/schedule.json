@@ -318,8 +318,9 @@
       "hook": "How many books have you actually read this year?",
       "caption": "How many books have you actually read this year?\n\naudiobooks don't count \ud83d\udcda\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/31-books-read-this-year.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "17994929711924006"
     },
     {
       "index": 32,
