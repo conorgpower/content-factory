@@ -328,8 +328,9 @@
       "hook": "Reading ranks just dropped..",
       "caption": "Reading ranks just dropped..\n\nand buying books doesn't count as reading them \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/32-books-read-this-year.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18111711589707022"
     },
     {
       "index": 33,
