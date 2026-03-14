@@ -338,8 +338,9 @@
       "hook": "The smartest people you know read 2 books a month..",
       "caption": "The smartest people you know read 2 books a month..\n\nwhere do you rank? \ud83d\udcd6\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/33-books-read-this-year.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18094295831092776"
     },
     {
       "index": 34,
