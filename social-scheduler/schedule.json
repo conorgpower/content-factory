@@ -418,8 +418,9 @@
       "hook": "Be honest.. how long is your longest streak?",
       "caption": "Be honest.. how long is your longest streak?\n\nquitting on day 4 doesn't count \ud83d\ude2c\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/41-daily-ritual-streak.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18164722132413473"
     },
     {
       "index": 42,
