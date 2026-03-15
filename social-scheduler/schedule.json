@@ -368,8 +368,9 @@
       "hook": "Tag someone who buys books but never reads them..",
       "caption": "Tag someone who buys books but never reads them..\n\ntheir shelf is just decoration at this point \ud83e\udee0\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/36-books-read-this-year.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "18102682919490694"
     },
     {
       "index": 37,
