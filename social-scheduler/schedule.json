@@ -408,8 +408,9 @@
       "hook": "No way, there's official ranks for daily streaks now..",
       "caption": "No way, there's official ranks for daily streaks now..\n\nsend this to someone who can't stay consistent \ud83d\udc80\n\nDownload Seneca Chat - link in bio",
       "video_file": "social-scheduler/videos/40-daily-ritual-streak.mp4",
-      "ig_published": false,
-      "fb_published": false
+      "ig_published": true,
+      "fb_published": false,
+      "ig_media_id": "17851337655640416"
     },
     {
       "index": 41,
